@@ -4,4 +4,4 @@ This is a project about solving constrained shortest path problem (CSPP) by an i
 
 Contact me if you need dataset, too big to be uploaded here. Or you can generate dataset by running ./dataset/make_training_data_LP.py.
 
-./domains/gridworld_LP.py provides toy examples for understanding how to solve CSPP.
+./domains/gridworld_LP.py provides toy examples for understanding how to solve CSPP by linear programming.
